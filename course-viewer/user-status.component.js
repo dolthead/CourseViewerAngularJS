@@ -29,6 +29,6 @@
                 });
             }
         },
-        templateUrl: 'app/user-status.component.html'
+        templateUrl: 'course-viewer/user-status.component.html'
     });
 })();

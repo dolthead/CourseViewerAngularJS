@@ -1,15 +1,15 @@
 (function () {
     'use strict';
 
-    angular.module('courseViewer').component('authorBio', {
+    angular.module('courseViewer').component('courseHeading', {
         bindings: {
-            author: '<'
+            course: '<'
         },
         controllerAs: 'vm',
         controller: function () {
             var vm = this;
 
         },
-        templateUrl: 'app/author/author-bio.component.html'
+        templateUrl: 'course-viewer/course/course-heading.component.html'
     });
 })();

@@ -1,0 +1,25 @@
+{
+  "name": "courseviewerangularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolthead/CourseViewerAngularJS.git"
+  },
+  "keywords": [
+    "angularjs",
+    "components",
+    "routing",
+    "bootstrap"
+  ],
+  "author": "miguelcastro67",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolthead/CourseViewerAngularJS/issues"
+  },
+  "homepage": "https://github.com/dolthead/CourseViewerAngularJS#readme"
+}

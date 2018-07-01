@@ -31,6 +31,6 @@
                 }
             }
         },
-        templateUrl: 'app/course/course-author-info.component.html'
+        templateUrl: 'course-viewer/course/course-author-info.component.html'
     });
 })();

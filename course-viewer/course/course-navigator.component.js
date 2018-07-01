@@ -7,6 +7,6 @@
             var vm = this;
 
         },
-        templateUrl: 'app/course/course-navigator.component.html'
+        templateUrl: 'course-viewer/course/course-navigator.component.html'
     });
 })();

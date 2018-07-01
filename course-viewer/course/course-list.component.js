@@ -14,6 +14,6 @@
                 });
             }
         },
-        templateUrl: 'app/course/course-list.component.html'
+        templateUrl: 'course-viewer/course/course-list.component.html'
     });
 })();

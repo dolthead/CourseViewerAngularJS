@@ -10,6 +10,6 @@
             var vm = this;
 
         },
-        templateUrl: 'app/course/course-discussion-list.component.html'
+        templateUrl: 'course-viewer/course/course-discussion-list.component.html'
     });    
 })();

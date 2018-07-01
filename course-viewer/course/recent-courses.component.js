@@ -26,6 +26,6 @@
                 vm.recentlyViewed = null;
             }
         },
-        templateUrl: 'app/course/recent-courses.component.html'
+        templateUrl: 'course-viewer/course/recent-courses.component.html'
     });
 })();

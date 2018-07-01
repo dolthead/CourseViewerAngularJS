@@ -30,6 +30,6 @@
                 }
             }
         },
-        templateUrl: 'app/course/course-discussion-item.component.html'
+        templateUrl: 'course-viewer/course/course-discussion-item.component.html'
     });       
 })();

@@ -19,6 +19,6 @@
                 return moduleLength;
             }
         },
-        templateUrl: 'app/course/course-modules.component.html'
+        templateUrl: 'course-viewer/course/course-modules.component.html'
     });
 })();

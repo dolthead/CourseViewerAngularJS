@@ -5,7 +5,7 @@
 
     appModule.value('apiBase', 'http://pluralsightcourseviewer.azurewebsites.net/api/courseviewer/');
     //appModule.value('apiBase', 'http://localhost:9838/api/courseviewer/');
-    appModule.value('componentBorders', true);
+    appModule.value('componentBorders', false);
 
     appModule.run(function (componentBorders) {
         if (componentBorders) {

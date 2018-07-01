@@ -17,6 +17,6 @@
                 }
             }
         },
-        templateUrl: 'app/author/author-courses.component.html'
+        templateUrl: 'course-viewer/author/author-courses.component.html'
     });
 })();

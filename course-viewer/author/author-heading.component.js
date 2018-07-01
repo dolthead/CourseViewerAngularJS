@@ -10,6 +10,6 @@
             var vm = this;
 
         },
-        templateUrl: 'app/author/author-heading.component.html'
+        templateUrl: 'course-viewer/author/author-heading.component.html'
     });
 })();

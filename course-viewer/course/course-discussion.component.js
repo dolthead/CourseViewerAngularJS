@@ -42,6 +42,6 @@
                 vm.commentEntryVisible = false;
             }
         },
-        templateUrl: 'app/course/course-discussion.component.html'
+        templateUrl: 'course-viewer/course/course-discussion.component.html'
     });
 })();
